@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Muhammad Mahdi Naghibi
-- 👀 I’m interested in Technology,Astronomy,reading,formula 1,Electrical Engineering,physics/
-- 🌱 I’m currently learning C
+- I'm currently studying Electrical Engineering 
+- 👀 I’m interested in Technology, Astronomy, Reading, Formula 1, Physics
 - 💞️ I’m looking to collaborate on every where
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- [Email](smmnaghibi48@gmail.com)
+- [Linkedin](www.linkedin.com/in/seyed-muhammad-mahdi-naghibi)
+
 
 <!---
 smmnaghibi/smmnaghibi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
