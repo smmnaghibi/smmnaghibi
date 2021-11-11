@@ -2,7 +2,7 @@
 - I'm currently studying Electrical Engineering 
 - 👀 I’m interested in Technology, Astronomy, Reading, Formula 1, Physics
 - 💞️ I’m looking to collaborate on every where
-- 📫 How to reach me 
+ 
 
 
 
