@@ -3,8 +3,7 @@
 - 👀 I’m interested in Technology, Astronomy, Reading, Formula 1, Physics
 - 💞️ I’m looking to collaborate on every where
 - 📫 How to reach me 
-- [Email](smmnaghibi48@gmail.com)
-- [Linkedin](www.linkedin.com/in/seyed-muhammad-mahdi-naghibi)
+
 
 
 <!---
